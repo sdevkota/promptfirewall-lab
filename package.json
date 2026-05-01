@@ -21,10 +21,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/promptfirewall-lab.git"
+    "url": "https://github.com/sdevkota/promptfirewall-lab.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/promptfirewall-lab/issues"
+    "url": "https://github.com/sdevkota/promptfirewall-lab/issues"
   },
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/promptfirewall-lab/"
+  "homepage": "https://sdevkota.github.io/promptfirewall-lab/"
 }

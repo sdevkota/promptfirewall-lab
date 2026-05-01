@@ -1,0 +1,30 @@
+{
+  "name": "@open-ai-civic/promptfirewall-lab",
+  "version": "1.0.0",
+  "description": "Defense-in-depth test harness for indirect prompt injection. Prompt injection cannot be fully patched at the model layer, yet teams still need practical tests for emails, docs, tool output, web pages, and retrieved snippets.",
+  "license": "MIT",
+  "private": false,
+  "bin": {
+    "promptfirewall-lab": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "test": "node test/smoke.js"
+  },
+  "keywords": [
+    "ai",
+    "agents",
+    "open-source",
+    "governance",
+    "safety",
+    "promptfirewall-lab"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/promptfirewall-lab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/promptfirewall-lab/issues"
+  },
+  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/promptfirewall-lab/"
+}
